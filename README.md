@@ -1,7 +1,8 @@
 # 0x0F. Build a web app in JavaScript
-* Description
-An alternative version of your final project. If you choose to do this, Kristen and I will be grading it so please send us the GitHub repo that you would like us to view. If you have the site running somewhere (hey, you can host it on a github.io site for fun), send us that link as well.
-Task 0
+**Description**
+An alternate version of your final project. If you choose to do this, Kristen and I will be grading it so please send us the GitHub repo that you would like us to view. If you have the site running somewhere (hey, you can host it on a github.io site for fun), send us that link as well.
+
+#### Task 0
 Your project must have at least 3 HTML pages
 You must use a styles.css file (and any relevant files/folders for images, fonts, etc.)
 You must create an interactive Figma mockup for each page you want to design for both desktop and mobile
