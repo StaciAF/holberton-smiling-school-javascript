@@ -50,6 +50,10 @@
     font-family: 'Stardos Stencil';
 }
 
+.font-lg {
+    font-size: 3.0rem;
+}
+
 .font-md {
     font-size: 1.50rem;
 }
@@ -75,6 +79,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    max-width: 100%;
     height: auto;
     opacity: 75%;
 }
@@ -84,8 +89,20 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    max-width: 100%;
     height: auto;
     opacity: 85%;
+}
+
+.mission-hero-bg {
+    background-image: url('/images/mission-hero.jpeg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    opacity: 75%;
 }
 
 .square {
