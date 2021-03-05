@@ -1,0 +1,335 @@
+@font-face {
+    font-family: 'iconic-sm';
+    src: url('../fonts/iconic-sm.eot');
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Source Sans Pro';
+}
+
+#bg-img {
+    background-image: url('/images/pic_1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+#bg-img-price {
+    background-image: url('/images/pic_2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+#bg-img-course {
+    background-image: url('/images/pic_3.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.bg-primary {
+    background-color: #C271FF !important;
+}
+
+.text-primary {
+    color: #C271FF !important;
+}
+
+#logo {
+    width: 114px;
+    height: auto;
+}
+
+#emblem {
+    width: 37px;
+    height: 30px;
+}
+
+.nav-link {
+    color: white;
+}
+
+h1 {
+    font-size: 120px;
+    line-height: 150px;
+}
+
+@media  (max-width: 576px) {
+    h1 {
+        font-size: 55px;
+        line-height: 75px;
+    }
+}
+
+@media  (min-width: 768px) {
+    h1 {
+        font-size: 120px;
+        line-height: 150px;
+    }
+}
+
+.top-buffer {
+    margin-top: 160px;
+}
+
+.btn-primary {
+    background-color: #C271FF;
+    border: #C271FF;
+}
+
+.btn-primary:hover {
+    background-color: #C271FF;
+}
+
+h3 strong {
+    color: #C271FF;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.col-space {
+    margin-top 5px;
+}
+
+h4 strong {
+    color: #C271FF;
+}
+
+#bg-img-carousel1 {
+    background-image: url('/images/thumbnail_1.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+
+#bg-img-carousel2 {
+    background-image: url('/images/thumbnail_2.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+#bg-img-carousel3 {
+    background-image: url('/images/thumbnail_3.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+#bg-img-carousel4 {
+    background-image: url('/images/thumbnail_4.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+#play-btn {
+    width: 64px;
+    height: 64px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
+.card-body img {
+    width: 30px;
+    height: 30px;
+}
+
+#play-btn {
+    width: 64px;
+    height: 64px;
+}
+
+.checked {
+    color: #C271FF;
+}
+
+.unchecked {
+    color: lightgrey;
+}
+
+.bg-alt {
+    background-color: #071629;
+}
+
+#footer-logo {
+    width: 114px;
+    height: auto;
+}
+
+#footer-smile {
+    width: 37px;
+    height: 30px;
+}
+
+#footer-copy {
+    font-size: 12px;
+}
+
+#pricing-h1 {
+    font-size: 32px;
+}
+
+#pricing-logo {
+    width: 37px;
+    height: 30px;
+}
+
+#pricing-emblem {
+    width: 155px;
+    height: 75px;
+}
+
+#pricing-head {
+    font-size: 60px;
+}
+
+hr {
+    background-color: lightslategray;
+}
+
+#signal-logo {
+    width: 75px;
+    height: auto;
+}
+
+.circle {
+    height: 28px;
+    width: 28px;
+    background-color: #82D24F;
+    border-radius: 50%;
+}
+
+.card {
+    border: none;
+}
+
+#course-h1 {
+    font-family: Coiny;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 35px;
+    text-align: center;
+}
+
+#course-h1 strong {
+    color: #C271FF;
+}
+
+.control-label {
+    font-size: 12px;
+}
+
+.form-control::placeholder {
+    color: white;
+}
+
+
+.bg-drop {
+    background-color: #d9b5f5;
+    opacity: .75;
+}
+
+.dropdown button:hover, 
+.dropwdown button:focus,
+.dropdown button:active {
+    background: #d9b5f5 !important;
+    transition: 0.3s !important;
+        -moz-transition:0.3s !important;
+        -webkit-transition: 0.3s !important;
+        -o-transition: 0.3s !important;
+}
+
+.dropdown button {
+    font-size: 18px;
+}
+
+
+/* Holberton School Icons */
+
+@font-face {
+    font-family: 'holberton_school-icon';
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4');
+    src:  url('fonts/holberton_school-icon.eot?sq4eq4#iefix') format('embedded-opentype'),
+      url('fonts/holberton_school-icon.ttf?sq4eq4') format('truetype'),
+      url('fonts/holberton_school-icon.woff?sq4eq4') format('woff'),
+      url('fonts/holberton_school-icon.svg?sq4eq4#holberton_school-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="holberton_school-icon-"], [class*=" holberton_school-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'holberton_school-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .holberton_school-icon-ic_facebook:before {
+    content: "\e908";
+    font-size: 30px;
+    color: white;
+  }
+
+  .holberton_school-icon-ic_instagram:before {
+    content: "\e90a";
+    font-size: 30px;
+    color: white;
+  }
+
+  .holberton_school-icon-ic_twitter:before {
+    content: "\e90f";
+    font-size: 30px;
+    color: white;
+  }
+
+  .holberton_school-icon-search_1:before {
+    content: "\e912";
+    font-size: 20px;
+    color: white;
+  }
+
+  .holberton_school-icon-arrow_5:before {
+      content: "\e904";
+      font-size: 10px;
+      color: white;
+  }
+
+  .holberton_school-icon-arrow_3 {
+      content: "\e902";
+      font-size: 5rem;
+      color: white;
+  }
+
+  .holberton_school-icon-arrow_4 {
+      content: "\e903";
+      color: white;
+      font-size: 5rem;
+  }
+  
