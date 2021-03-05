@@ -138,3 +138,7 @@
 #pro_2 {
     visibility: hidden;
 }
+
+.btn:hover {
+    border-color: var(--lt-neutral);
+}
