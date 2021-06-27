@@ -1,4 +1,7 @@
 # 0x0F. Build a web app in JavaScript
+<a href="https://www.linkedin.com/in/staci-af/" target="_top">Staci AF -- LinkedIn</a>
+<br>
+<a href="https://twitter.com/wife_tiny" target="_top">tiny_wife -- Twitter</a>
 ## Trimester 1 Final Project
 *  Completion of Front-End specific studies in Web Development Specialization @ Holberton School Tulsa
 ### Task 0
