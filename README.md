@@ -14,7 +14,8 @@
 ```
 
  ### Task 1
-![Screen Shot 2021-06-27 at 10 49 53 AM](https://user-images.githubusercontent.com/56170981/123550988-715b9d00-d735-11eb-92e1-33dc6188047a.png)
+![Screen Shot 2021-06-27 at 10 55 15 AM](https://user-images.githubusercontent.com/56170981/123551147-33ab4400-d736-11eb-8052-fc32f878326a.png)
+
 ```
  This task has been changed to include all content you were asked to do in Task 2 and Task 3.
  Create a landing page for your 3-page site.
