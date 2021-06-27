@@ -1,7 +1,7 @@
 # 0x0F. Build a web app in JavaScript
- * Description
- An alternative version of your final project. If you choose to do this, Kristen and I will be grading it so please send us the GitHub repo that you would like us to view. If you have the site running somewhere (hey, you can host it on a github.io site for fun), send us that link as well.
- Task 0
+### Trimester 1 Final Project
+*  Completion of Front-End specific studies in Web Development Specialization @ Holberton School Tulsa
+#### Task 0
  Your project must have at least 3 HTML pages
  You must use a styles.css file (and any relevant files/folders for images, fonts, etc.)
  You must create an interactive Figma mockup for each page you want to design for both desktop and mobile
@@ -12,6 +12,7 @@
  button hover/active: opacity: 0.9
 
  #### Task 1
+![Screen Shot 2021-06-27 at 10 49 53 AM](https://user-images.githubusercontent.com/56170981/123550988-715b9d00-d735-11eb-92e1-33dc6188047a.png)
  This task has been changed to include all content you were asked to do in Task 2 and Task 3.
  Create a landing page for your 3-page site.
  You must use JQuery and Ajax requests.
@@ -45,12 +46,7 @@
  ```
 
  #### Task 2
- Task 2’s content has been wrapped up into Task 1.
-
- #### Task 3
- Task 3’s content has been wrapped up into Task 1.
-
- #### Task 4
+![Screen Shot 2021-06-27 at 10 42 28 AM](https://user-images.githubusercontent.com/56170981/123551007-89cbb780-d735-11eb-8fcb-2bfc61833234.png)
  Design a second page that is relevant page of your application
  You must use JQuery and Ajax requests.
  A loader should be present when loading any dynamic content.
@@ -58,7 +54,8 @@
  Ideas for another page: Pricing, About, Contact, Events, Projects, News
  All pages should be accessible from any other page
 
- #### Task 5
+ #### Task 3
+![Screen Shot 2021-06-27 at 10 51 18 AM](https://user-images.githubusercontent.com/56170981/123551023-9e0fb480-d735-11eb-9c12-40e6523ae4eb.png)
  Design a third page that is  relevant to your application
  You must use JQuery and Ajax requests.
  A loader should be present when loading any dynamic content.
